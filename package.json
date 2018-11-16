@@ -1,7 +1,7 @@
 {
-  "name": "class-validator",
+  "name": "class-validator-for-routing-controllers",
   "private": true,
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "Class-based validation with Typescript / ES6 / ES5 using decorators or validation schemas. Supports both node.js and browser",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -50,7 +50,7 @@
     "remap-istanbul": "^0.9.1",
     "sinon": "^2.1.0",
     "sinon-chai": "^2.9.0",
-    "ts-node": "^3.0.2",
+    "ts-node": "^3.3.0",
     "tslint": "^4.5.1",
     "tslint-stylish": "^2.1.0",
     "typescript": "^2.2.1"

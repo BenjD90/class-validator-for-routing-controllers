@@ -1,5 +1,11 @@
 # Changelog and release notes
 
+### 0.8.6
+
+#### Fixes
+
+* validating against a schema will validate against that one instead of every registered one
+
 ### 0.8.5
 
 #### Fixes
