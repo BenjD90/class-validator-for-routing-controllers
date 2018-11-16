@@ -57,7 +57,7 @@
   },
   "scripts": {
     "test": "gulp tests",
-    "publish": "gulp publish",
+    "npmPublish": "gulp publish",
     "build": "gulp package"
   }
 }
